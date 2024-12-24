@@ -13,7 +13,7 @@ This project was developed as part of an assignment provided by **CodeAnt AI**. 
 
 You can view the live version of the project here:
 
-- [Deployed Project Link](https://your-deployed-link.com)
+- [Deployed Project Link](https://code-ant-assignment-ep7v.vercel.app/)
 
 ## Figma Design
 
